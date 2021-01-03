@@ -4,4 +4,4 @@
 
 ## This repository includes all the source codes of running the dot matrix with necessary comments.
 
-## Also the schematic diagrams of the circuit.
+## Also includes the schematic diagrams of the circuit for better understanding of how it works.
